@@ -1,0 +1,21 @@
+* {
+    font-family: 'Montserrat';
+}
+
+#logoInitial {
+    color: #1e11db;
+    font-size: 120%;
+}
+
+#logoName {
+    font-family: 'Secular One';
+}
+
+#logoName:hover {
+    color: #1e11db
+}
+
+.bi {
+    font-size: 25px;
+    color: black;
+}
